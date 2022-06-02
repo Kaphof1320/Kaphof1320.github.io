@@ -1,0 +1,20 @@
+body {
+	/*background:#19208a;*/
+	background:yellow
+	background-image: linear-gradient(to bottom, red, yellow);
+	font-size: 22px;
+	color: black;
+	font-family: 'Lora', serif;
+}
+
+h1{
+	text-align:center;
+	color:acfa;
+}
+
+img{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-reflect: below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+}
